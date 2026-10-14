@@ -12,7 +12,7 @@
 
 ## The game
 
-People are disappearing, but nobody dies of it. First they forget a song. Then a name. Then the people around them stop remembering them at all. As long as one person still knows who you are, you are alive. When the last one lets go, you are gone.
+Something is taking people out of the world, and at first it does not look like dying. They forget a song. Then a name. Then the people around them stop remembering them at all. As long as one person still knows who you are, you are alive. When the last one lets go, you die.
 
 **The Severed Line** is a dark, real-time tactical RPG on a split battlefield. Your party stands on one side, the enemy on the other. You lead one hero directly, and the others fight beside you on their own. You can switch to any of them at any moment.
 
