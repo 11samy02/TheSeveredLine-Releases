@@ -62,7 +62,7 @@ You lead one of them, and the others fight beside you, each in their own way. Yo
 
 ## The four
 
-<img src="images/vael.gif" align="left" width="150" alt="Vael">
+<img src="images/four/vael.gif" align="left" width="150" alt="Vael">
 
 ### Vael
 **Master of Timing**
@@ -71,7 +71,7 @@ A blaster that runs hot. Hold the trigger and it spins faster, cyan to gold to r
 
 <br clear="left">
 
-<img src="images/rhosyn.gif" align="right" width="150" alt="Rhosyn">
+<img src="images/four/rhosyn.gif" align="right" width="150" alt="Rhosyn">
 
 ### Rhosyn
 **Master of Order**
@@ -80,7 +80,7 @@ Potions thrown over the enemy line onto whole patterns of the field. Five brews 
 
 <br clear="right">
 
-<img src="images/grask.gif" align="left" width="150" alt="Grask">
+<img src="images/four/grask.gif" align="left" width="150" alt="Grask">
 
 ### Grask
 **Master of Space**
@@ -89,7 +89,7 @@ A quiet man who becomes something else in battle. He throws his axe, leaves it b
 
 <br clear="left">
 
-<img src="images/meridia.gif" align="right" width="150" alt="Meridia">
+<img src="images/four/meridia.gif" align="right" width="150" alt="Meridia">
 
 ### Meridia
 **The Returning Flame**
