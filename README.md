@@ -1,71 +1,74 @@
 <div align="center">
 
-<img src="images/logo.png" alt="The Severed Line" width="600">
+<img src="images/logo.png" alt="The Severed Line" width="560">
+
+<br>
 
 *Only the forgotten die.*
 
-**[→ Download the latest release](../../releases)**
+<br>
+
+### [Download](../../releases)
 
 </div>
 
+<br>
+
+<div align="center">
+
+*First they forget a song.*<br>
+*Then a name.*<br>
+*Then the faces that knew them stop knowing them at all.*
+
+*As long as someone keeps you, you live.*<br>
+*When the last one lets go,*<br>
+*you are gone.*
+
+<br>
+
+**Keep me.** — *I will.*
+
+</div>
+
+<br>
+
 ---
 
-## The game
+<br>
 
-Something is taking people out of the world, and at first it does not look like dying. They forget a song. Then a name. Then the people around them stop remembering them at all. As long as one person still knows who you are, you are alive. When the last one lets go, you die.
+Four of them stand on one side of a severed field. Something waits on the other.
 
-**The Severed Line** is a dark, real-time tactical RPG on a split battlefield. Your party stands on one side, the enemy on the other. You lead one hero directly, and the others fight beside you on their own. You can switch to any of them at any moment.
+You lead one; the others fight beside you, each in their own way. Every blow is announced before it falls, as light creeping across the ground and counting down beneath your feet. Read it. Step out on the last breath. Hold your shape together, and break what stands against you.
 
-Every attack is announced before it lands. Fields light up and count down, and reading those warnings is how you survive. Step out at the last moment, stand where your team can reach, and break a boss that fights back.
-
-## The party
+<br>
 
 <table>
 <tr>
-<td align="center" width="33%"><img src="images/vael.gif" width="170"><br><b>Vael</b><br><sub>Master of Timing</sub></td>
-<td align="center" width="33%"><img src="images/rhosyn.gif" width="170"><br><b>Rhosyn</b><br><sub>Master of Order</sub></td>
-<td align="center" width="33%"><img src="images/grask.gif" width="170"><br><b>Grask</b><br><sub>Master of Space</sub></td>
+<td align="center" width="25%"><img src="images/vael.gif" width="150"><br><b>Vael</b><br><sub>Master of Timing</sub></td>
+<td align="center" width="25%"><img src="images/rhosyn.gif" width="150"><br><b>Rhosyn</b><br><sub>Master of Order</sub></td>
+<td align="center" width="25%"><img src="images/grask.gif" width="150"><br><b>Grask</b><br><sub>Master of Space</sub></td>
+<td align="center" width="25%"><img src="images/meridia.gif" width="150"><br><b>Meridia</b><br><sub>The Returning Flame</sub></td>
 </tr>
 <tr>
-<td valign="top">A blaster that runs hot. Let go while it glows gold to <b>VENT</b>; dodge at the very last instant for a <b>PERFECT</b>.</td>
-<td valign="top">Potions thrown over the enemy onto whole patterns of fields. Brew them in the right order and every throw sets off a <b>reaction</b>.</td>
-<td valign="top">Throws his axe, leaves it in the ground and calls it back. It flies home to wherever he stands, hitting everything on its way.</td>
+<td align="center" valign="top"><i>Fire on the beat.<br>Step out on the last breath.</i></td>
+<td align="center" valign="top"><i>Five brews, one order,<br>and the world reacts.</i></td>
+<td align="center" valign="top"><i>He throws the axe.<br>He calls it home.</i></td>
+<td align="center" valign="top"><i>What strikes you<br>burns back.</i></td>
 </tr>
 </table>
 
-## Playing it
-
-**Windows 10 / 11, 64-bit.** A graphics card with DirectX 12 or Vulkan support is needed.
-
-1. Download the `.zip` from the [latest release](../../releases) and unpack it.
-2. Start `TheSeveredLine.exe`. Nothing needs to be installed.
-
-The game is not signed yet, so Windows may show *"Windows protected your PC"* the first time. Click **More info → Run anyway**.
-
-A controller works as well as the keyboard. The first run teaches everything as you play. The **Training** menu on the title screen lets you replay any lesson.
-
-| Keyboard | |
-|---|---|
-| WASD / arrow keys | Move |
-| Space | Attack |
-| F | Ability |
-| Tab | Switch hero |
-| Q / E | Team plays safer / bolder |
-| 1 – 4 | Call a formation |
-| Esc / P | Pause |
-
-## Status
-
-This is an **alpha**, a playable slice of the opening of the game. Expect rough edges, and expect things to change between releases.
-
-## Credits
-
-Made by [11samy02](https://github.com/11samy02) with [Godot](https://godotengine.org).
-
-- Fonts: *Jacquard 12* and *Jersey 10* (SIL Open Font License); the logo is set in *Cormorant Garamond* (SIL Open Font License).
-- Menu sounds: *Menu Sounds V2* by **Noah Kuehne** (CC BY 4.0).
-- Sound effects from the Sonniss #GameAudioGDC bundles and other licensed packs. Music from licensed music packs.
+<br>
 
 ---
 
-This repository carries the downloads only. The source is kept privately.
+<div align="center">
+
+Unpack the zip and start **`TheSeveredLine.exe`**. Keyboard or controller.
+
+<sub>Windows may warn about an unknown publisher the first time: choose <b>More info → Run anyway</b>.</sub>
+
+<br>
+
+<sub><i>An early alpha. The line is still being drawn.</i></sub>
+
+</div>
