@@ -4,7 +4,7 @@
 
 *Only the forgotten die.*
 
-**[→ Download the latest release](../../releases/latest)**
+**[→ Download the latest release](../../releases)**
 
 </div>
 
@@ -37,7 +37,7 @@ Every attack is announced before it lands. Fields light up and count down, and r
 
 **Windows 10 / 11, 64-bit.** A graphics card with DirectX 12 or Vulkan support is needed.
 
-1. Download the `.zip` from the [latest release](../../releases/latest) and unpack it.
+1. Download the `.zip` from the [latest release](../../releases) and unpack it.
 2. Start `TheSeveredLine.exe`. Nothing needs to be installed.
 
 The game is not signed yet, so Windows may show *"Windows protected your PC"* the first time. Click **More info → Run anyway**.
